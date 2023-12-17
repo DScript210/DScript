@@ -1,5 +1,3 @@
-![Alt Text](./Downloads/logo.jpeg)
-
 # Dscript - Desafios de Programação
 
 Bem-vindo ao Dscript, um projeto empolgante da Etec de Poá, dedicado a proporcionar desafios de programação cativantes para iniciantes e entusiastas em busca de aprimoramento. Aqui, buscamos criar uma comunidade vibrante onde a aprendizagem se torna uma jornada divertida e colaborativa.
