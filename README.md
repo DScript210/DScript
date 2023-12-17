@@ -1,4 +1,4 @@
-![Alt Text](Downloads/logo.jpeg)
+![Alt Text](./Downloads/logo.jpeg)
 
 # Dscript - Desafios de Programação
 
