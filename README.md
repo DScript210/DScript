@@ -6,7 +6,7 @@ Bem-vindo ao Dscript, um projeto empolgante da Etec de Poá, dedicado a proporci
 
 ## 🚀 Como Participar
 
-1. Explore nossa [página de Desafios](desafios) e escolha aquele que mais lhe interessa.
+1. Explore nossa [página de Desafios](Dscript) e escolha aquele que mais lhe interessa.
 2. Faça um fork deste repositório para a sua conta pessoal.
 3. Implemente sua solução criativa para o desafio escolhido.
 4. Envie um pull request para que sua contribuição seja compartilhada e reconhecida pela comunidade.
