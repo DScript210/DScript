@@ -24,3 +24,5 @@
 Não se preocupe com o design, o foco é na estrutura HTML básica. Substitua as informações e conteúdo pelos seus próprios dados. 
 
 Desafie-se e divirta-se construindo seu próprio perfil pessoal em HTML! 💻✨
+
+

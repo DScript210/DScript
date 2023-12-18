@@ -48,3 +48,4 @@
 Certifique-se de substituir "caminho-da-sua-imagem.jpg" pelo caminho correto da sua imagem local e ajuste os links das redes sociais com suas informações.
 
 Desafie-se a personalizar ainda mais seu perfil e experimente outras tags HTML! 💻✨
+
