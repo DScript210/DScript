@@ -14,7 +14,7 @@ Bem-vindo ao Dscript, um projeto empolgante da Etec de Poá, dedicado a proporci
 ## 🌐 Recursos e Comunidade
 
 - Participe das discussões, compartilhe dicas e faça perguntas na nossa [Comunidade](comunidade).
-- Mantenha-se atualizado seguindo-nos no Twitter: [@DscriptEtecPoá](https://twitter.com/DscriptEtecPoa).
+- Mantenha-se atualizado seguindo-nos no Instagram: [@ds_sem_t](https://instagram.com/ds_sem_t).
 - Utilize a hashtag #DscriptChallenge para mostrar suas realizações e interagir com outros participantes.
 
 ## 🌟 Contribua
