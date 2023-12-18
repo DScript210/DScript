@@ -1,4 +1,3 @@
-<img href="blob:https://web.whatsapp.com/8777c53d-0c3e-4881-ba9b-54c06bbda22b"/>
 
 # Dscript - Desafios de Programação
 
@@ -6,7 +5,7 @@ Bem-vindo ao Dscript, um projeto empolgante da Etec de Poá, dedicado a proporci
 
 ## 🚀 Como Participar
 
-1. Explore nossa [página de Desafios]() e escolha aquele que mais lhe interessa.
+1. Explore nossa [página de Desafios](HTML) e escolha aquele que mais lhe interessa.
 2. Faça um fork deste repositório para a sua conta pessoal.
 3. Implemente sua solução criativa para o desafio escolhido.
 4. Envie um pull request para que sua contribuição seja compartilhada e reconhecida pela comunidade.
